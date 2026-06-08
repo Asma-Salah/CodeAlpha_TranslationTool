@@ -1,7 +1,12 @@
 # Language Translation Tool
 
 A language translation web app built with React and TypeScript.
+
 ![App screenshot](assets/screenshot.png)
+
+## Live Demo
+
+🔗 [View Live App](https://codealpha-translationtool.vercel.app)
 
 ## Features
 
